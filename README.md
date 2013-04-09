@@ -23,8 +23,8 @@ The async model is against meetings by principle, but there should be a means fo
 _TBD_
 
 ## Expectations
-Working remote is not an optimization to the classical model and does not make the process easier. It's a framework for __scaling a team while empowering each of its members,__ thus obtaining a sustainable network of people, where each person is as important as the next one. __Responsability is split between all team members__ and does not fall back on a restricted set of people. This aims to remove bottlenecks commonly found in the _waterfall_ model.
+Working remote is not an optimization to the classical model and does not make the process easier. It's only part of a framework for __scaling a team while empowering each of its members,__ thus obtaining a sustainable network of people, where each person can be as important as the next one. __Responsability is split between all team members__ and does not fall back on a restricted set of people. This aims to remove bottlenecks commonly found in the _waterfall_ model.
 
-The advantages are obvious, but like any framework, it takes a while before reaching its full capability and becoming more proficient than before by using it, and for that to happen the efforts must be not smaller, but bigger!
+The advantages are obvious, but like with any other framework, it takes a while before reaching its full capability and becoming more proficient than before by using it. For that to happen the efforts must be not smaller, but bigger!
 
 __Are you up for the task?__
