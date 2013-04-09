@@ -8,7 +8,7 @@ _with great freedom comes great accountability_
 
 ## What you need to do
 * Make yourself __as reachable as possible__ during working days
-* Respond to any inquiry in up to 24 hours in working days (unless explicitly taking day off.) The average should be as low as possible, though. **Transparency is the gateway to trust,** and you can't work remotely without having trust established in your group; it's better to bring bad news earlier than to keep pushing blindly on something that doesn't have a clear progress or status
+* Respond to any inquiry in up to 24 hours in working days (unless explicitly taking day off.) The average should be as low as possible, though. **Transparency is the gateway to trust,** and you can't work remotely without having trust established in your group; it's better to bring bad news earlier than to keep pushing blindly on something that doesn't have a clear progress
 * Have a __clear and open status__ for each of the working days—both past and future, it's OK if it changes the next day
 * __Always look for something to do, ask around, help someone ship their project faster, start one from the backlog or propose a new one__
 * Make your __location available__ on each working day (for both reliability and safety)
